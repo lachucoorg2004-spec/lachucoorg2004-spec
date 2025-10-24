@@ -20,7 +20,7 @@ It includes:
 
 <!-- Animated Typing Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&lines=👨‍💻+m+v+lakshmi;  DATA+ANALYST;Django+%7C+React+%7C+FastAPI+%7C+DevOps;Innovator+%26+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&lines=👨‍💻+mv+lakshmi;  data+analyst;Django+%7C+React+%7C+FastAPI+%7C+DevOps;Innovator+%26+Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <!-- Gradient Banner -->
