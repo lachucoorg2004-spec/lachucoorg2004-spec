@@ -28,13 +28,13 @@ It includes:
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/arjun-kumar-dev" target="_blank">
+  <a href="www.linkedin.com/in/lakshmi-prakash-17a7ba371" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/arjun-dev-27" target="_blank">
+  <a href="https://github.com/lachucoorg2004-spec" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:arjun.kumar.dev@gmail.com" target="_blank">
+  <a href="lachucoorg2004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://arjun-dev-portfolio.netlify.app" target="_blank">
