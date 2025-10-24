@@ -9,7 +9,7 @@
 </head>
 <body>
     <section class="about-me">
-        <h2>👩🏻About Me</h2>
+        <h2>👩🏻About Me:</h2>
         <p>Hello, I'm M V lakshmi, a Data Analyst.</p>
         <p>I'm passionate about data cleaning,visualization,analyze and building innovative solutions.</p>
     </section>
