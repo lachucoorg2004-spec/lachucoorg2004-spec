@@ -13,7 +13,7 @@ It includes:
 ---
 
 `html
-<!-- 🌌 ADVANCED GITHUB PROFILE README FOR ARJUN KUMAR -->
+<!-- 🌌 ADVANCED GITHUB PROFILE README FOR M V LAKSHMI -->
 <!-- Drop this in your GitHub README.md file directly -->
 
 <div align="center">
