@@ -27,6 +27,22 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=lachucoorg2004-spec&icon=1&color=0)](https://visitcount.itsvg.in)
 
+<h3>🏅 Certifications & Achievements</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Expert-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Expert"/>
+  <img src="https://img.shields.io/badge/Power_BI_Professional-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Pro"/>
+  <img src="https://img.shields.io/badge/Python_Data_Analyst-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Analyst"/>
+  <img src="https://img.shields.io/badge/Data_Science_Explorer-4285F4?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Science Explorer"/>
+</p>
+
+<!-- ===== CONNECT ===== -->
+<h3>💫 Connect With Me</h3>
+<p align="center">
+  <a href="mailto:lachucoorg2004@gmail.com"><img src="https://img.shields.io/badge/📩_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/lakshmi-prakash-17a7ba371"><img src="https://img.shields.io/badge/💼_LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/lachucoorg2004-spec"><img src="https://img.shields.io/badge/🐙_GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </body>
 </html>
