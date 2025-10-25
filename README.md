@@ -43,6 +43,10 @@
   <a href="https://github.com/lachucoorg2004-spec"><img src="https://img.shields.io/badge/🐙_GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
+<!-- Glowing Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#FFFFFF&height=100&section=footer" width="100%"/>
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </body>
 </html>
