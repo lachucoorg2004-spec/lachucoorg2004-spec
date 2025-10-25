@@ -10,6 +10,8 @@
 
 </div>
 
+# 💫 About Me:
+<br>📊 Data Analyst | SQL | Power BI | Python  <br>🔍 Curious mind, analytical thinker, creative problem solver.  <br>💬 “Data speaks — I just translate it.”  <br>
 
 
 # 💻 Tech Stack:
